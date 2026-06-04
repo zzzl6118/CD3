@@ -1,5 +1,5 @@
 
-# Bidirectional Enhancement Framework for Fine-Grained Change Detection in Unregistered Remote Sensing Images
+# Change-Preserving Geometric Disentanglement for Fine-Grained Change Detection in Unregistered Remote Sensing Images
 ## 🛠️ Environment Setup
 
 ### Dependencies
